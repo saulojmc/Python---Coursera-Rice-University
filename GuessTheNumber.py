@@ -11,8 +11,8 @@ guess_number = -1
 try_count = 7
 game_range = 100
 secret_number = random.randrange(game_range)
-game_output_string = 'New game!'
-output_string_color = "Green"    
+game_output_string = 'New game!You are Welcome!'
+output_string_color = "Blue"    
 print "New game. Range is from 0 to 100"
 print "Number of remaining guesses is ",try_count
 
